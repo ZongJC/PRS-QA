@@ -16,6 +16,8 @@ conda activate PRS-QA
 | CommonsenseQA | OpenBookQA | medqa-usmle |  
 | :--- | :--- | :--- |  
 | https://www.tau-nlp.org/commonsenseqa | https://huggingface.co/datasets/allenai/openbookqa | https://github.com/jind11/MedQA |  
+
+
 Download all the raw data -- ConceptNet, CommonsenseQA, OpenBookQA -- by
 ./download_raw_data.sh
 python preprocess.py -p <num_processes>
