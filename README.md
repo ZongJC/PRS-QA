@@ -19,9 +19,8 @@ conda activate PRS-QA
 
 
 Download all the raw data -- ConceptNet, CommonsenseQA, OpenBookQA -- by <br>
-`./download_raw_data.sh
-
-python preprocess.py -p <num_processes>`
+```./download_raw_data.sh```
+```python preprocess.py -p <num_processes>```
 
 
 3.Pre-trained language model download link:
