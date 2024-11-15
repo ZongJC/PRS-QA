@@ -28,3 +28,10 @@ Download all the raw data -- ConceptNet, CommonsenseQA, OpenBookQA -- by <br>
 | Roberta-large | aristo-roberta | SapBERT |  
 | :--- | :---| :--- |  
 | https://huggingface.co/FacebookAI/roberta-large | https://huggingface.co/LIAMF-USP/aristo-roberta | https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext |  
+
+4.Train Model:
+============================================
+For CommonsenseQA, run
+```bash run_PRS-QA__csqa.sh```
+For OpenBookQA, run
+```bash run_PRS-QA__obqa.sh```
