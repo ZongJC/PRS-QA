@@ -1,4 +1,5 @@
-1. Dependencies
+1.Dependencies:
+======================
 python == 3.7
 torch == 1.8.1 + cu111
 torch-geometric == 1.7.0
@@ -10,14 +11,13 @@ CUDA Version: 12.2
 conda create -n PRS-QA python=3.7
 conda activate PRS-QA
 
-
-Dataset download link：
+2.Dataset download link：
 =======================
 | CommonsenseQA | OpenBookQA | medqa-usmle |  
 | :--- | :--- | :--- |  
 | https://www.tau-nlp.org/commonsenseqa | https://huggingface.co/datasets/allenai/openbookqa | https://github.com/jind11/MedQA |  
 
-Pre-trained language model download link
+3.Pre-trained language model download link:
 ==========================================
 | Roberta-large | aristo-roberta | SapBERT |  
 | :--- | :---| :--- |  
