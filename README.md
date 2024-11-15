@@ -32,6 +32,6 @@ Download all the raw data -- ConceptNet, CommonsenseQA, OpenBookQA -- by <br>
 4.Train Model:
 ============================================
 For CommonsenseQA, run
-```bash run_PRS-QA__csqa.sh```
+```bash run_PRS-QA__csqa.sh```<br>
 For OpenBookQA, run
 ```bash run_PRS-QA__obqa.sh```
