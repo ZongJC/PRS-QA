@@ -1,3 +1,16 @@
+1. Dependencies
+python == 3.7
+torch == 1.8.1 + cu111
+torch-geometric == 1.7.0
+torch-scatter == 2.0.7
+torch-sparse = 0.6.9
+transformers == 3.4.0
+Run the following commands to create a conda environment:
+CUDA Version: 12.2
+conda create -n PRS-QA python=3.7
+conda activate PRS-QA
+
+
 Dataset download link：
 =======================
 | CommonsenseQA | OpenBookQA | medqa-usmle |  
